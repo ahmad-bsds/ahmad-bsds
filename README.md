@@ -8,8 +8,7 @@ I turn data into actionable insights and build intelligent systems that make a d
 - 🧠 **Machine Learning**: Build models that learn and adapt
 - 🤖 **AI Engineering**: Building intelligent systems for real-world applications
 
-# 💻 Tech Stack:
-# Technologies & Tools
+## 💻 Tech Stack:
 
 | Category | Tools |
 |----------|-------|
@@ -29,11 +28,21 @@ I turn data into actionable insights and build intelligent systems that make a d
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmad-bsds&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmad-bsds&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-bsds&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmad-bsds&theme=vue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-bsds&theme=vue&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-bsds&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 
 ---
