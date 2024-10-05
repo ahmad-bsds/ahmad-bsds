@@ -1,12 +1,11 @@
-## 🚀 Data Scientist | ML/AI Engineer
+## 🚀 About me
 
-I turn data into actionable insights and build intelligent systems that make a difference. With a passion for uncovering patterns and a knack for developing AI solutions, I'm on a mission to solve complex problems and drive innovation.
-
+Final year data science student with keen interest in building intelligent systems and help organizations scceed.
 ### 🔍 What I Do
 
-- 📊 **Data Analytics**: Analyze and visualize the data
-- 🧠 **Machine Learning**: Build models that learn and adapt
-- 🤖 **AI Engineering**: Building intelligent systems for real-world applications
+- 📊 **Data Science** Bridging the gap between data and impactful business outcomes.
+- 🧠 **Machine Learning**: Reducing human intervention with autonomous models.
+- 🤖 **AI**: Accelerating problem-solving with GenAI-driven solutions.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-bsds) 
